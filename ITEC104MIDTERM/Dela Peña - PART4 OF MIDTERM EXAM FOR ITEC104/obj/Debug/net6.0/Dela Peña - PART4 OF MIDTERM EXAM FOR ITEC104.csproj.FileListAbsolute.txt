@@ -1,0 +1,15 @@
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\bin\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.exe
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\bin\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.deps.json
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\bin\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.runtimeconfig.json
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\bin\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.dll
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\bin\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.pdb
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.csproj.AssemblyReference.cache
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.AssemblyInfoInputs.cache
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.AssemblyInfo.cs
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.csproj.CoreCompileInputs.cache
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.dll
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\refint\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.dll
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.pdb
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.genruntimeconfig.cache
+C:\Users\Onin\source\repos\ITEC104MIDTERM\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104\obj\Debug\net6.0\ref\Dela Peña - PART4 OF MIDTERM EXAM FOR ITEC104.dll
