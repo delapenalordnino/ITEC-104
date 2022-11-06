@@ -1,0 +1,15 @@
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.csproj.AssemblyReference.cache
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.AssemblyInfoInputs.cache
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.AssemblyInfo.cs
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.csproj.CoreCompileInputs.cache
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\bin\Debug\net6.0\ITEC104_STACK_DELAPEÑA.exe
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\bin\Debug\net6.0\ITEC104_STACK_DELAPEÑA.deps.json
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\bin\Debug\net6.0\ITEC104_STACK_DELAPEÑA.runtimeconfig.json
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\bin\Debug\net6.0\ITEC104_STACK_DELAPEÑA.dll
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\bin\Debug\net6.0\ITEC104_STACK_DELAPEÑA.pdb
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.dll
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\refint\ITEC104_STACK_DELAPEÑA.dll
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.pdb
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ITEC104_STACK_DELAPEÑA.genruntimeconfig.cache
+C:\Users\Onin\source\repos\ITEC104_STACK_DELAPEÑA\ITEC104_STACK_DELAPEÑA\obj\Debug\net6.0\ref\ITEC104_STACK_DELAPEÑA.dll
